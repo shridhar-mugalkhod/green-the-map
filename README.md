@@ -1,0 +1,3 @@
+Rapid increase in the production of waste has led to an upsurge of black spots. Garbage is a main issue plaguing the city. It is a menace which has been spreading all over the country. It has also become one of a major concern in environmental issues. It is high time that we combat the issue and address it effectively.
+
+## Our project is based on effective garbage management. We have come up with an idea to address this issue. The project can be implemented using Machine Learning, Image Processing and IoT.
